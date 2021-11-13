@@ -72,7 +72,6 @@ game_prepare_phase = False
 # running ----------------------------------------------------
 running = True
 while running:
-
     screen.blit(background, (0, 0))
 
     if tittle_phase:
